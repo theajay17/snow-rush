@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Snow Rush — Sled downhill, dodge obstacles, unlock new sleds" width="100%"/></p>
+<p align="center"><img src="assets/banner.svg" alt="Snow Rush: Sled Adventure — 3D downhill sled racing — dodge obstacles, unlock sleds" width="100%"/></p>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=com.snowrush.game"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72"/></a></p>
 <p align="center"><img src="https://img.shields.io/badge/status-live_on_Google_Play-22c55e?style=flat-square" alt="status"/> <img src="https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/source-private-555?style=flat-square&logo=github" alt="source private"/> <img src="https://img.shields.io/badge/by-AJAY_LABs-111?style=flat-square" alt="AJAY LABs"/></p>
 ---
@@ -31,13 +31,13 @@ Snow Rush is a casual 3D sled racing game. Race downhill through snowy mountain 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/GCmU8s5RvMQoZUr_z2n5F9BeSd13p_CraGCxyFEXyJTaC8rtNGF7n--X_XzdlP86WJSOXq4NHvQeJG_32x2YOQ=w400" width="200" alt="Snow Rush screenshot 1"/>
-  <img src="https://play-lh.googleusercontent.com/bTv4ut5ItQhMxk31E3suLkE9qz9HS7NHhEp3UteIG8GMk-w01no7jEZJawUOhEowxV3v1iHro17DwTHjFGsstg=w400" width="200" alt="Snow Rush screenshot 2"/>
-  <img src="https://play-lh.googleusercontent.com/ZHpQxJx-inJIinC7ubWgPseXrra-1Li7-BeUeySy-RDoN2aqs_hEw5oTaIf_6sXstRT3aJZTaxXK64yvKZUMlA=w400" width="200" alt="Snow Rush screenshot 3"/>
+  <img src="https://play-lh.googleusercontent.com/GCmU8s5RvMQoZUr_z2n5F9BeSd13p_CraGCxyFEXyJTaC8rtNGF7n--X_XzdlP86WJSOXq4NHvQeJG_32x2YOQ=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 1"/>
+  <img src="https://play-lh.googleusercontent.com/bTv4ut5ItQhMxk31E3suLkE9qz9HS7NHhEp3UteIG8GMk-w01no7jEZJawUOhEowxV3v1iHro17DwTHjFGsstg=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 2"/>
+  <img src="https://play-lh.googleusercontent.com/ZHpQxJx-inJIinC7ubWgPseXrra-1Li7-BeUeySy-RDoN2aqs_hEw5oTaIf_6sXstRT3aJZTaxXK64yvKZUMlA=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 3"/>
   <br/>
-  <img src="https://play-lh.googleusercontent.com/CGjOOmcCJ1qt9e5MOdCbAdW3bZylTcf4OD1v8vItmzNM0X6bLd959Slns8CTyAq3TVBJG01JQk1e6RFK3m_w=w400" width="200" alt="Snow Rush screenshot 4"/>
-  <img src="https://play-lh.googleusercontent.com/ESXihQDSOb07MjzH8uKyCIubnlfgUItd8qz4eoKdPSj_2DYxT3TKogzYha3aopRzcwJzWbDPQC3OTaRavS9HZA=w400" width="200" alt="Snow Rush screenshot 5"/>
-  <img src="https://play-lh.googleusercontent.com/ffKcmmVt9ApXSfnF-8wc3UJDZzszj9r9-FjFMrejJZPfveABwA_nwKrBDfQNg046PZsC1gsCfKr5w0KzyoIfQv0=w400" width="200" alt="Snow Rush screenshot 6"/>
+  <img src="https://play-lh.googleusercontent.com/CGjOOmcCJ1qt9e5MOdCbAdW3bZylTcf4OD1v8vItmzNM0X6bLd959Slns8CTyAq3TVBJG01JQk1e6RFK3m_w=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 4"/>
+  <img src="https://play-lh.googleusercontent.com/ESXihQDSOb07MjzH8uKyCIubnlfgUItd8qz4eoKdPSj_2DYxT3TKogzYha3aopRzcwJzWbDPQC3OTaRavS9HZA=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 5"/>
+  <img src="https://play-lh.googleusercontent.com/ffKcmmVt9ApXSfnF-8wc3UJDZzszj9r9-FjFMrejJZPfveABwA_nwKrBDfQNg046PZsC1gsCfKr5w0KzyoIfQv0=w400" width="200" alt="Snow Rush: Sled Adventure screenshot 6"/>
 </p>
 
 ## 🔒 About this repository
